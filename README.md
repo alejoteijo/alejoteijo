@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alejoteijo
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning iOS development
+- 🌱 I’m always learning new things
 - 📫 How to reach me alejoteijo@outlook.com
 
 <!---
